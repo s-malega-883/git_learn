@@ -1,1 +1,2 @@
 This is chapter 3.
+This is the content of secondary branch in chapter 3.
